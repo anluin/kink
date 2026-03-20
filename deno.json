@@ -1,0 +1,14 @@
+{
+    "workspace": [
+        "./packages/cage"
+    ],
+    "fmt": {
+        "useTabs": false,
+        "lineWidth": 128,
+        "indentWidth": 4,
+        "semiColons": true
+    },
+    "compilerOptions": {
+        "strict": true
+    }
+}
